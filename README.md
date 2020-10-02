@@ -7,6 +7,6 @@
 # 02 
 <img src="nodejs_user_authentication/preview/02.png">
 </br>
-
+  
 # 03
 <img src="nodejs_user_authentication/preview/03.png">
